@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '~> 5.1'
 # START_HIGHLIGHT
 gem 'webpacker'
+
 # END_HIGHLIGHT
 # END:install-webpacker
 gem 'pg', '~> 0.18'
