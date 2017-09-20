@@ -10,23 +10,15 @@ require 'rails_helper'
 
 describe "rspec is configured properly" do
   it "should pass" do
-    expect(true).to eq (true)
+    expect(true).to eq(true)
   end
 
   it "can't fail" do
-    expect(false).to eq (true)
+    expect(false).to eq(true)
   end
 end
 
-
-
-
-
-
-
-
-
-# "canary spec" do
+# describe "canary spec" do
 #   it "works" do
 #     expect(true).to eq(true)
 #   end
